@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">SEARCH</string>
+    <string name="redValue">redValue</string>
+    <string name="greenValue">greenValue</string>
+    <string name="blueValue">blueValue</string>
+</resources>
